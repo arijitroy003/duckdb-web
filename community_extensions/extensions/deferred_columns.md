@@ -20,10 +20,10 @@ repo:
   github: iwinalbert/deferred-columns
   ref: 49a3a0313886b14cad3f2f100a375c4892072f0c
 
-extension_star_count: 0
-extension_star_count_pretty: 0
-extension_download_count: 168
-extension_download_count_pretty: 168
+extension_star_count: 1
+extension_star_count_pretty: 1
+extension_download_count: 315
+extension_download_count_pretty: 315
 image: '/images/community_extensions/social_preview/preview_community_extension_deferred_columns.png'
 layout: community_extension_doc
 ---

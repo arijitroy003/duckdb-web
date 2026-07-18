@@ -64,10 +64,10 @@ extended_description: |
 
       
 
-extension_star_count: 20
-extension_star_count_pretty: 20
-extension_download_count: 552
-extension_download_count_pretty: 552
+extension_star_count: 21
+extension_star_count_pretty: 21
+extension_download_count: 551
+extension_download_count_pretty: 551
 image: '/images/community_extensions/social_preview/preview_community_extension_quackscale.png'
 layout: community_extension_doc
 ---
